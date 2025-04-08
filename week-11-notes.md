@@ -38,9 +38,14 @@
 
         .when .flex-container,
         .how .flex-container {
+        /*  select "every other" section tag,
+            ex: first and third */
+
+
             flex-direction: row-reverse;
             /* swap left and right columns */
         }
-        /* select every other section tag  */
+        
 
-        } /* always comment the closing media query tag */
+        } /* always comment the closing media query tag
+             so you don't delete it by accident */
