@@ -2,13 +2,15 @@
 
 ## Common Mistakes
 
-- No decoration in HTML, only use CSS
-- No capitals or spaces in css selector names.flex-container
-- Missing reset. [Use this code](https://raw.githubusercontent.com/JACGWD/CSS-Reset-Selector/refs/heads/main/reset/simple-css-reset-v2.2.css) at the top of your stylesheet.
-- Make sure your .flex-container divs all have **exactly two elements** inside: a \<picture> tag, and either a single \<p> or a \<div> with multiple other tags inside it. This will create two exactly columns. 
+- Not following instruction posted on GitHub
 - Not putting in enough time for homework
-- Not asking enough questions 
-- Not asking for help outside of class time.
+- Not asking enough questions outside of class time
+- Not asking for help outside of class time
+- Adding decorative elements in the HTML, not using only CSS
+- Using capitals or spaces in css selector names
+- Not adding the CSS reset. [Use this code](https://raw.githubusercontent.com/JACGWD/CSS-Reset-Selector/refs/heads/main/reset/simple-css-reset-v2.2.css) at the top of your stylesheet.
+- Make sure your .flex-container divs all have **exactly two elements** inside: a \<picture> tag, and either a single \<p> or a \<div> with multiple other tags inside it. This will create two exactly columns. 
+
 
 ## Simplified Page Layout
 
