@@ -28,6 +28,9 @@
         .flex-container {
             display: flex;  
             /* creates two columns */
+
+            column-gap: 1rem;
+            /* space between the columns */
         }
 
         .flex-container picture, 
